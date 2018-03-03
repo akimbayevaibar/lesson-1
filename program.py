@@ -6,3 +6,5 @@ if opros=="да" or opros =="конечно":
 
 else :
     print ("жаль")
+
+print ("удачи")
